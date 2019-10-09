@@ -4,6 +4,7 @@
 using namespace std;
 int main()
 {
+	//This code is correct!!!
 	int n,m,flag,s;
 	s=0;
 	flag=1;
